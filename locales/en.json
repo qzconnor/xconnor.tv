@@ -1,0 +1,117 @@
+{
+  "nav": {
+    "home": "Home",
+    "skills": "Skills",
+    "tools": "Tools",
+    "experience": "Experience",
+    "contact": "Contact",
+    "admin": "Admin"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Connor Breuer",
+    "handle": "xConnorTV",
+    "roles": ["Full-Stack Developer", "Web Developer", "Open Source Enthusiast", "Problem Solver"],
+    "description": "I build modern web applications with a focus on performance, design, and developer experience.",
+    "cta_contact": "Get in touch",
+    "cta_projects": "My Projects",
+    "scroll_down": "Scroll down",
+    "available": "Available for projects"
+  },
+  "skills": {
+    "title": "Skills",
+    "subtitle": "What I can do",
+    "description": "An overview of my technical knowledge and experience.",
+    "level_1": "Beginner",
+    "level_2": "Basic",
+    "level_3": "Intermediate",
+    "level_4": "Advanced",
+    "level_5": "Expert",
+    "categories": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "database": "Database",
+      "devops": "DevOps",
+      "mobile": "Mobile",
+      "other": "Other"
+    }
+  },
+  "tools": {
+    "title": "Tools & Technologies",
+    "subtitle": "What I work with",
+    "description": "These tools and technologies I use daily in my work."
+  },
+  "experience": {
+    "title": "Work Experience",
+    "subtitle": "My Journey",
+    "description": "Stations of my professional career.",
+    "present": "Present",
+    "technologies": "Technologies",
+    "location": "Location"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Get in touch",
+    "description": "Have a project in mind? I'd love to hear from you!",
+    "email": "Email",
+    "github": "GitHub",
+    "twitter": "Twitter / X",
+    "linkedin": "LinkedIn",
+    "available_text": "I'm currently open to new projects and collaborations."
+  },
+  "admin": {
+    "title": "Admin",
+    "dashboard": "Dashboard",
+    "skills": "Skills",
+    "tools": "Tools",
+    "experience": "Experience",
+    "add": "Add",
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirm_delete": "Really delete?",
+    "confirm_delete_desc": "This action cannot be undone.",
+    "no_items": "No entries found.",
+    "total_skills": "Skills",
+    "total_tools": "Tools",
+    "total_experience": "Experiences",
+    "fields": {
+      "name": "Name",
+      "level": "Level",
+      "category": "Category",
+      "icon": "Icon",
+      "description": "Description",
+      "url": "URL",
+      "company": "Company",
+      "role": "Role",
+      "start_date": "Start Date",
+      "end_date": "End Date",
+      "current": "Current Position",
+      "technologies": "Technologies (comma-separated)",
+      "location": "Location",
+      "color": "Color"
+    }
+  },
+  "theme": {
+    "toggle": "Toggle theme",
+    "dark": "Dark",
+    "light": "Light",
+    "terminal": "Terminal",
+    "ocean": "Ocean",
+    "violet": "Violet"
+  },
+  "language": {
+    "de": "Deutsch",
+    "en": "English"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "close": "Close",
+    "back": "Back",
+    "years": "years",
+    "months": "months"
+  }
+}

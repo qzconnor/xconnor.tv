@@ -1,0 +1,162 @@
+{
+  "nav": {
+    "home": "Start",
+    "skills": "Fähigkeiten",
+    "tools": "Tools",
+    "experience": "Erfahrung",
+    "projects": "Projekte",
+    "contact": "Kontakt",
+    "admin": "Admin"
+  },
+  "hero": {
+    "greeting": "Hallo, ich bin",
+    "name": "Connor Breuer",
+    "handle": "xConnorTV",
+    "roles": ["Full-Stack Developer", "Web Developer", "Open Source Enthusiast", "Problem Solver"],
+    "description": "Ich entwickle moderne Webanwendungen mit einem Fokus auf Performance, Design und Developer Experience.",
+    "cta_contact": "Kontakt aufnehmen",
+    "cta_projects": "Meine Projekte",
+    "scroll_down": "Nach unten scrollen",
+    "available": "Offen für neue Stellen",
+    "not_available": "Aktuell nicht verfügbar"
+  },
+  "skills": {
+    "title": "Fähigkeiten",
+    "subtitle": "Was ich kann",
+    "description": "Eine Übersicht meiner technischen Kenntnisse und Erfahrungen.",
+    "level_1": "Anfänger",
+    "level_2": "Grundkenntnisse",
+    "level_3": "Fortgeschritten",
+    "level_4": "Experte",
+    "level_5": "Meister",
+    "categories": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "database": "Datenbank",
+      "devops": "DevOps",
+      "mobile": "Mobile",
+      "other": "Sonstiges"
+    }
+  },
+  "tools": {
+    "title": "Tools & Technologien",
+    "subtitle": "Womit ich arbeite",
+    "description": "Diese Tools und Technologien nutze ich täglich in meiner Arbeit."
+  },
+  "experience": {
+    "title": "Berufserfahrung",
+    "subtitle": "Mein Werdegang",
+    "description": "Stationen meiner beruflichen Laufbahn.",
+    "present": "Heute",
+    "technologies": "Technologien",
+    "location": "Standort"
+  },
+  "projects": {
+    "title": "Projekte",
+    "subtitle": "Was ich gebaut habe",
+    "description": "Eine Auswahl meiner Projekte – von kleinen Tools bis zu größeren Webanwendungen.",
+    "visit": "Live ansehen",
+    "repo": "Repository",
+    "featured": "Hervorgehoben",
+    "featured_desc": "Groß anzeigen",
+    "live_url": "Live-URL",
+    "repo_url": "Repository-URL"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "In Kontakt treten",
+    "description": "Haben Sie ein Projekt? Ich freue mich über Ihre Nachricht!",
+    "email": "E-Mail",
+    "github": "GitHub",
+    "twitter": "Twitter / X",
+    "linkedin": "LinkedIn",
+    "available_text": "Ich bin aktuell offen für neue Stellen und Zusammenarbeiten.",
+    "not_available_text": "Ich bin aktuell nicht auf der Suche nach neuen Stellen."
+  },
+  "admin": {
+    "title": "Admin",
+    "dashboard": "Dashboard",
+    "skills": "Fähigkeiten",
+    "tools": "Tools",
+    "experience": "Erfahrung",
+    "logout": "Abmelden",
+    "add": "Hinzufügen",
+    "edit": "Bearbeiten",
+    "delete": "Löschen",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "confirm_delete": "Wirklich löschen?",
+    "confirm_delete_desc": "Diese Aktion kann nicht rückgängig gemacht werden.",
+    "no_items": "Keine Einträge vorhanden.",
+    "total_skills": "Fähigkeiten",
+    "total_tools": "Tools",
+    "total_experience": "Erfahrungen",
+    "total_contacts": "Kontakte",
+    "contacts": "Kontakte",
+    "total_projects": "Projekte",
+    "projects": "Projekte",
+    "entries": "Einträge",
+    "open_for_work": "Offen für Stellen",
+    "open_for_work_desc": "Zeigt an ob du aktiv nach Arbeit suchst",
+    "section_visibility": "Abschnitte anzeigen",
+    "section_visibility_desc": "Schalte ganze Bereiche der Portfolio-Seite an oder aus",
+    "status_updated": "Status aktualisiert",
+    "login": {
+      "password": "Passwort",
+      "submit": "Anmelden",
+      "error": "Falsches Passwort"
+    },
+    "settings": {
+      "title": "Einstellungen",
+      "subtitle": "Konto- und Sicherheitseinstellungen",
+      "change_password": "Passwort ändern",
+      "current_password": "Aktuelles Passwort",
+      "new_password": "Neues Passwort",
+      "new_password_placeholder": "Mindestens 6 Zeichen",
+      "confirm_password": "Passwort bestätigen",
+      "save_password": "Passwort speichern",
+      "password_changed": "Passwort erfolgreich geändert",
+      "password_mismatch": "Die Passwörter stimmen nicht überein",
+      "password_too_short": "Das Passwort muss mindestens 6 Zeichen lang sein",
+      "password_hint": "Mindestens 6 Zeichen"
+    },
+    "fields": {
+      "name": "Name",
+      "level": "Level",
+      "category": "Kategorie",
+      "icon": "Icon",
+      "description": "Beschreibung",
+      "url": "URL",
+      "company": "Unternehmen",
+      "role": "Position",
+      "start_date": "Startdatum",
+      "end_date": "Enddatum",
+      "current": "Aktuelle Position",
+      "technologies": "Technologien (kommagetrennt)",
+      "location": "Standort",
+      "color": "Farbe",
+      "contact_value": "Anzeigename / Handle"
+    }
+  },
+  "theme": {
+    "toggle": "Theme wechseln",
+    "dark": "Dunkel",
+    "light": "Hell",
+    "terminal": "Terminal",
+    "ocean": "Ozean",
+    "violet": "Violett"
+  },
+  "language": {
+    "de": "Deutsch",
+    "en": "English"
+  },
+  "common": {
+    "loading": "Lädt...",
+    "error": "Fehler",
+    "success": "Erfolgreich",
+    "close": "Schließen",
+    "back": "Zurück",
+    "years": "Jahre",
+    "months": "Monate"
+  }
+}

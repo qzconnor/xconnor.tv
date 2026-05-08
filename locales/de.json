@@ -1,0 +1,117 @@
+{
+  "nav": {
+    "home": "Start",
+    "skills": "Fähigkeiten",
+    "tools": "Tools",
+    "experience": "Erfahrung",
+    "contact": "Kontakt",
+    "admin": "Admin"
+  },
+  "hero": {
+    "greeting": "Hallo, ich bin",
+    "name": "Connor Breuer",
+    "handle": "xConnorTV",
+    "roles": ["Full-Stack Developer", "Web Developer", "Open Source Enthusiast", "Problem Solver"],
+    "description": "Ich entwickle moderne Webanwendungen mit einem Fokus auf Performance, Design und Developer Experience.",
+    "cta_contact": "Kontakt aufnehmen",
+    "cta_projects": "Meine Projekte",
+    "scroll_down": "Nach unten scrollen",
+    "available": "Verfügbar für Projekte"
+  },
+  "skills": {
+    "title": "Fähigkeiten",
+    "subtitle": "Was ich kann",
+    "description": "Eine Übersicht meiner technischen Kenntnisse und Erfahrungen.",
+    "level_1": "Anfänger",
+    "level_2": "Grundkenntnisse",
+    "level_3": "Fortgeschritten",
+    "level_4": "Experte",
+    "level_5": "Meister",
+    "categories": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "database": "Datenbank",
+      "devops": "DevOps",
+      "mobile": "Mobile",
+      "other": "Sonstiges"
+    }
+  },
+  "tools": {
+    "title": "Tools & Technologien",
+    "subtitle": "Womit ich arbeite",
+    "description": "Diese Tools und Technologien nutze ich täglich in meiner Arbeit."
+  },
+  "experience": {
+    "title": "Berufserfahrung",
+    "subtitle": "Mein Werdegang",
+    "description": "Stationen meiner beruflichen Laufbahn.",
+    "present": "Heute",
+    "technologies": "Technologien",
+    "location": "Standort"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "In Kontakt treten",
+    "description": "Haben Sie ein Projekt? Ich freue mich über Ihre Nachricht!",
+    "email": "E-Mail",
+    "github": "GitHub",
+    "twitter": "Twitter / X",
+    "linkedin": "LinkedIn",
+    "available_text": "Ich bin aktuell offen für neue Projekte und Zusammenarbeiten."
+  },
+  "admin": {
+    "title": "Admin",
+    "dashboard": "Dashboard",
+    "skills": "Fähigkeiten",
+    "tools": "Tools",
+    "experience": "Erfahrung",
+    "add": "Hinzufügen",
+    "edit": "Bearbeiten",
+    "delete": "Löschen",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "confirm_delete": "Wirklich löschen?",
+    "confirm_delete_desc": "Diese Aktion kann nicht rückgängig gemacht werden.",
+    "no_items": "Keine Einträge vorhanden.",
+    "total_skills": "Fähigkeiten",
+    "total_tools": "Tools",
+    "total_experience": "Erfahrungen",
+    "fields": {
+      "name": "Name",
+      "level": "Level",
+      "category": "Kategorie",
+      "icon": "Icon",
+      "description": "Beschreibung",
+      "url": "URL",
+      "company": "Unternehmen",
+      "role": "Position",
+      "start_date": "Startdatum",
+      "end_date": "Enddatum",
+      "current": "Aktuelle Position",
+      "technologies": "Technologien (kommagetrennt)",
+      "location": "Standort",
+      "color": "Farbe"
+    }
+  },
+  "theme": {
+    "toggle": "Theme wechseln",
+    "dark": "Dunkel",
+    "light": "Hell",
+    "terminal": "Terminal",
+    "ocean": "Ozean",
+    "violet": "Violett"
+  },
+  "language": {
+    "de": "Deutsch",
+    "en": "English"
+  },
+  "common": {
+    "loading": "Lädt...",
+    "error": "Fehler",
+    "success": "Erfolgreich",
+    "close": "Schließen",
+    "back": "Zurück",
+    "years": "Jahre",
+    "months": "Monate"
+  }
+}

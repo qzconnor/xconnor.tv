@@ -1,0 +1,162 @@
+{
+  "nav": {
+    "home": "Home",
+    "skills": "Skills",
+    "tools": "Tools",
+    "experience": "Experience",
+    "projects": "Projects",
+    "contact": "Contact",
+    "admin": "Admin"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Connor Breuer",
+    "handle": "xConnorTV",
+    "roles": ["Full-Stack Developer", "Web Developer", "Open Source Enthusiast", "Problem Solver"],
+    "description": "I build modern web applications with a focus on performance, design, and developer experience.",
+    "cta_contact": "Get in touch",
+    "cta_projects": "My Projects",
+    "scroll_down": "Scroll down",
+    "available": "Open to work",
+    "not_available": "Not available for work"
+  },
+  "skills": {
+    "title": "Skills",
+    "subtitle": "What I can do",
+    "description": "An overview of my technical knowledge and experience.",
+    "level_1": "Beginner",
+    "level_2": "Basic",
+    "level_3": "Intermediate",
+    "level_4": "Advanced",
+    "level_5": "Expert",
+    "categories": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "database": "Database",
+      "devops": "DevOps",
+      "mobile": "Mobile",
+      "other": "Other"
+    }
+  },
+  "tools": {
+    "title": "Tools & Technologies",
+    "subtitle": "What I work with",
+    "description": "These tools and technologies I use daily in my work."
+  },
+  "experience": {
+    "title": "Work Experience",
+    "subtitle": "My Journey",
+    "description": "Stations of my professional career.",
+    "present": "Present",
+    "technologies": "Technologies",
+    "location": "Location"
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "What I've built",
+    "description": "A selection of my projects — from small tools to larger web applications.",
+    "visit": "View live",
+    "repo": "Repository",
+    "featured": "Featured",
+    "featured_desc": "Show prominently",
+    "live_url": "Live URL",
+    "repo_url": "Repository URL"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Get in touch",
+    "description": "Have a project in mind? I'd love to hear from you!",
+    "email": "Email",
+    "github": "GitHub",
+    "twitter": "Twitter / X",
+    "linkedin": "LinkedIn",
+    "available_text": "I'm currently open to new work opportunities and collaborations.",
+    "not_available_text": "I'm not currently looking for new work opportunities."
+  },
+  "admin": {
+    "title": "Admin",
+    "dashboard": "Dashboard",
+    "skills": "Skills",
+    "tools": "Tools",
+    "experience": "Experience",
+    "logout": "Logout",
+    "add": "Add",
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirm_delete": "Really delete?",
+    "confirm_delete_desc": "This action cannot be undone.",
+    "no_items": "No entries found.",
+    "total_skills": "Skills",
+    "total_tools": "Tools",
+    "total_experience": "Experiences",
+    "total_contacts": "Contacts",
+    "contacts": "Contacts",
+    "total_projects": "Projects",
+    "projects": "Projects",
+    "entries": "entries",
+    "open_for_work": "Open for Work",
+    "open_for_work_desc": "Shows whether you're actively looking for work",
+    "section_visibility": "Section Visibility",
+    "section_visibility_desc": "Toggle entire portfolio sections on or off",
+    "status_updated": "Status updated",
+    "login": {
+      "password": "Password",
+      "submit": "Sign in",
+      "error": "Invalid password"
+    },
+    "settings": {
+      "title": "Settings",
+      "subtitle": "Account and security settings",
+      "change_password": "Change Password",
+      "current_password": "Current Password",
+      "new_password": "New Password",
+      "new_password_placeholder": "At least 6 characters",
+      "confirm_password": "Confirm Password",
+      "save_password": "Save Password",
+      "password_changed": "Password changed successfully",
+      "password_mismatch": "Passwords do not match",
+      "password_too_short": "Password must be at least 6 characters",
+      "password_hint": "At least 6 characters"
+    },
+    "fields": {
+      "name": "Name",
+      "level": "Level",
+      "category": "Category",
+      "icon": "Icon",
+      "description": "Description",
+      "url": "URL",
+      "company": "Company",
+      "role": "Role",
+      "start_date": "Start Date",
+      "end_date": "End Date",
+      "current": "Current Position",
+      "technologies": "Technologies (comma-separated)",
+      "location": "Location",
+      "color": "Color",
+      "contact_value": "Display Name / Handle"
+    }
+  },
+  "theme": {
+    "toggle": "Toggle theme",
+    "dark": "Dark",
+    "light": "Light",
+    "terminal": "Terminal",
+    "ocean": "Ocean",
+    "violet": "Violet"
+  },
+  "language": {
+    "de": "Deutsch",
+    "en": "English"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "close": "Close",
+    "back": "Back",
+    "years": "years",
+    "months": "months"
+  }
+}
