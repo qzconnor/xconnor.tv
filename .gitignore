@@ -8,7 +8,7 @@ dist
 .claude
 # Node dependencies
 node_modules
-
+data/*
 # Logs
 logs
 *.log

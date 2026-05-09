@@ -83,7 +83,7 @@ function resolveIcon(name: string) {
       <!-- Contact cards grid -->
       <div
         v-if="contacts && contacts.length"
-        class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 max-w-4xl mx-auto"
+        class="flex flex-wrap justify-center gap-4 max-w-4xl mx-auto"
       >
         <a
           v-for="(contact, i) in contacts"
@@ -91,7 +91,7 @@ function resolveIcon(name: string) {
           :href="contact.href"
           target="_blank"
           rel="noopener noreferrer"
-          class="group flex flex-col items-center gap-4 p-6 rounded-xl border bg-gradient-to-br backdrop-blur-md transition-all duration-300 hover:-translate-y-1 hover:shadow-xl"
+          class="group flex flex-col items-center gap-4 p-6 rounded-xl border bg-gradient-to-br backdrop-blur-md transition-all duration-300 hover:-translate-y-1 hover:shadow-xl w-full sm:w-52"
           :class="cardColor(contact.colorPreset)"
           data-animate
           :data-animate-delay="String(i * 100)"
